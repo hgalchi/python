@@ -1,0 +1,50 @@
+[33mcommit c2f88a161b81f2daab1eb91456ba40b37561cac9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 29777c8 57db2ea
+Author: Sun <wywudi@naver.com>
+Date:   Fri Jul 22 18:15:27 2022 +0900
+
+    Merge branch 'update-red'
+
+[33mcommit 29777c8c39034b2303c6a731a5b8e64c0a35db62[m
+Author: Sun <wywudi@naver.com>
+Date:   Fri Jul 22 18:09:49 2022 +0900
+
+    update red color
+
+[33mcommit 57db2ea8ef789d0bb42ea30e982f91a85d179f56[m[33m ([m[1;32mupdate-red[m[33m)[m
+Author: Sun <wywudi@naver.com>
+Date:   Fri Jul 22 18:04:04 2022 +0900
+
+    update red
+
+[33mcommit 986f2fe800efda91476e3e6dc7cfc402c9cf2504[m[33m ([m[1;32madd-color[m[33m)[m
+Author: Sun <wywudi@naver.com>
+Date:   Fri Jul 22 18:02:11 2022 +0900
+
+    add green,blue
+
+[33mcommit 443615f2e91559b9d3b74012fa6e561676d094ef[m
+Author: Sun <wywudi@naver.com>
+Date:   Fri Jul 22 17:54:21 2022 +0900
+
+    Revert "v1 commit"
+    
+    This reverts commit eb1752dae381910e83d732ddfefd7f9559f7e19b.
+
+[33mcommit 78ad0c5bc8363a3ac544eb94e42772f2a830f46d[m
+Author: Sun <wywudi@naver.com>
+Date:   Fri Jul 22 17:53:57 2022 +0900
+
+    v3 commit
+
+[33mcommit eb1752dae381910e83d732ddfefd7f9559f7e19b[m
+Author: Sun <wywudi@naver.com>
+Date:   Fri Jul 22 17:39:27 2022 +0900
+
+    v1 commit
+
+[33mcommit 89569cba509c44960a2fba2b5756cea33a02f30b[m
+Author: Sun <wywudi@naver.com>
+Date:   Fri Jul 22 17:37:07 2022 +0900
+
+    v1 commit
